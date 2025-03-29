@@ -32,7 +32,21 @@ A responsive web-based clone of Flipkart's user interface, built with HTML, CSS,
 flipkart-clone/
 ├── index.html
 ├── css/
+│   ├── main.css
+│   ├── header.css
+│   ├── shop-category.css
+│   └── style.css
+├── js/
+│   ├── main.js
+│   ├── banner-slider.js
+│   └── header.js
 ├── images/
+│   ├── electronics/
+│   ├── toys-more/
+│   ├── hero-banner/
+│   ├── shop-category/
+│   ├── header/
+│   └── favicon/
 └── README.md
 ```
 
