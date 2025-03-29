@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/shop-category.css">
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 
@@ -100,10 +101,52 @@
                     </div>
                 </div>
             </div>
+
+            <!-- hero banners scrolling -->
+            <div class="hero-container">
+                <div class="hero-banner">
+                    <div class="hero-slider" id="heroSlider">
+                        <div class="hero-slide">
+                            <img src="/images/hero-banner/b1.png" alt="Banner 1">
+                        </div>
+                        <div class="hero-slide">
+                            <img src="/images/hero-banner/b2.png" alt="Banner 2">
+                        </div>
+                        <div class="hero-slide">
+                            <img src="/images/hero-banner/b3.png" alt="Banner 3">
+                        </div>
+                        <div class="hero-slide">
+                            <img src="/images/hero-banner/b4.png" alt="Banner 4">
+                        </div>
+                        <div class="hero-slide">
+                            <img src="/images/hero-banner/b5.png" alt="Banner 5">
+                        </div>
+                    </div>
+                    <div class="slider-buttons">
+                        <button class="prev-btn" id="prevBtn">
+                            <i class="fa-solid fa-chevron-left"></i>
+                        </button>
+                        <button class="next-btn" id="nextBtn">
+                            <i class="fa-solid fa-chevron-right"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="slide-dots" id="slideDots">
+                    <span class="dot active" data-index="0"></span>
+                    <span class="dot" data-index="1"></span>
+                    <span class="dot" data-index="2"></span>
+                    <span class="dot" data-index="3"></span>
+                    <span class="dot" data-index="4"></span>
+                </div>
+            </div>
+
+            
         </div>
     </main>
 
     <!-- js links -->
     <script src="js/header.js"></script>
+    <script src="js/banner-slider.js"></script>
+    
 </body>
 </html>
