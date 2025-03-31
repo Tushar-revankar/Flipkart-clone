@@ -212,9 +212,17 @@
     overflow-y: auto; 
 }
 
-.menu-heading:hover .cs-electronics {
+.menu-heading:hover .cs-electronics,
+.menu-heading:hover .cs-home-and-furniture {
     height: auto; 
     height: 499px; 
     max-height: 499px; 
+    overflow-y: auto; 
+}
+
+.menu-heading:hover .cs-beauty-toys-and-more {
+    height: auto; 
+    height: 461px; 
+    max-height: 461px; 
     overflow-y: auto; 
 }
