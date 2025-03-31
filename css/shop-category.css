@@ -211,3 +211,10 @@
     max-height: 422px; 
     overflow-y: auto; 
 }
+
+.menu-heading:hover .cs-electronics {
+    height: auto; 
+    height: 499px; 
+    max-height: 499px; 
+    overflow-y: auto; 
+}
