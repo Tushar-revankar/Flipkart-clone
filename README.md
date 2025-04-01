@@ -46,9 +46,24 @@ flipkart-clone/
 │   ├── hero-banner/
 │   ├── shop-category/
 │   ├── header/
-│   └── favicon/
+│   ├── favicon/
+│   ├── screenshots/
+│   ├── furniture-deals/
+│   └── grid-item/
 └── README.md
 ```
+
+## Screenshots
+
+### Home Page
+![Main Page](images/screenshots/mainpage.png)
+
+### Category Dropdown
+![Dropdown Menu](images/screenshots/dropdown.png)
+
+### Product Listings
+![Products Page](images/screenshots/products.png)
+
 
 ## Contributing
 
