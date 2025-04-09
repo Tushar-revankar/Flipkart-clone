@@ -2,6 +2,8 @@
 
 A responsive web-based clone of Flipkart's user interface, built with HTML, CSS, and JavaScript.
 
+[Live Demo](https://flipkart-web-clone.vercel.app/)
+
 ## ✨ Features
 
 - Responsive design that works on desktop and mobile
